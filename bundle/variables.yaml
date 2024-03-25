@@ -1,0 +1,4 @@
+variables:
+- team: ci-pipeline-workshop-march2024
+- admin-user: dshepherd-git-admin
+- manager-user: dshepherd-git
